@@ -1,0 +1,248 @@
+body {
+    background-color: #202124;
+    overflow: hidden;
+    height: 100%;
+}
+
+.header-right {
+    color: #fff;
+    position: relative;
+    text-align: right;
+    padding: 15px;
+    padding-right: 100px;
+    font: 13px Arial, sans-serif;
+
+}
+
+.gmail {
+    padding-right: 10px;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+.images {
+    text-decoration: none;
+    color: #fff;
+}
+
+.gmail:hover {
+    text-decoration: underline;
+}
+
+.images:hover {
+    text-decoration: underline;
+}
+
+.background-container {
+    background-color: #202124;
+    width: 80%;
+    max-height: 320px;
+    margin: 20px auto;
+    text-align: center;
+    position: relative;
+    font-family: Arial;
+
+}
+
+.google-logo {
+    padding-top: 180px;
+
+
+}
+
+
+
+input {
+
+    border: thin;
+    border-color: #85858c;
+    border-radius: 50px;
+    width: 80%;
+    height: 45px;
+    background-color: #202124;
+    color: #ffffff;
+    border-style: ridge solid;
+    padding: 5px 8px 0px 14px;
+    background-image: url('');
+
+}
+
+.input:hover {
+    background-color: #3d3d40;
+    border: none;
+}
+
+
+
+.search {
+    background-color: #007bff;
+    border: none;
+
+}
+
+
+.section {
+    padding-bottom: 1000px;
+    font-size: small;
+
+
+}
+
+.first {
+    background-color: #3d3d40;
+    border: none;
+    color: rgba(248, 247, 245, 0.937);
+    ;
+    height: 35px;
+    border-radius: 5px;
+    margin: 11p 4px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    text-decoration: none;
+
+
+
+}
+
+button:hover {
+    border-width: thin;
+    border-color: #d9d7d7c5;
+    border-style: ridge;
+
+}
+
+.second {
+    margin-left: -4px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #3d3d40;
+    border: none;
+    color: rgba(251, 246, 247, 0.892);
+    ;
+    height: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 11px 4px;
+
+}
+
+.write-up {
+    color: #bdc1c6;
+
+
+}
+
+.hausa {
+    color: #8ab4f8;
+    text-decoration: none;
+}
+
+.hausa:hover {
+    text-decoration: underline;
+}
+
+.yoruba {
+    text-decoration: none;
+    color: #8ab4f8
+}
+
+.yoruba:hover {
+    text-decoration: underline;
+}
+
+.nigeria {
+    text-decoration: none;
+    color: #8ab4f8;
+    padding-bottom: 0px;
+
+}
+
+.nigeria:hover {
+    text-decoration: underline;
+}
+
+.footer-container {
+    background-color: #1c1d1f;
+    text-align: left;
+    font-family: arial;
+    color: #9AA0A6;
+    padding: 20px;
+
+
+}
+
+
+.up {
+
+    text-align: left;
+    font-size: 13px;
+    font-family: Arial;
+
+    padding-left: 15px;
+
+
+}
+
+
+
+
+.middle {
+    text-align: center;
+
+
+}
+
+
+.center {
+    cursor: pointer;
+    text-decoration: none;
+
+    font-family: arial;
+    font-size: 13px;
+
+}
+
+.down {
+
+    font-size: 13px;
+    padding: 25px;
+
+
+}
+
+
+.z {
+    padding-right: 15px;
+}
+
+.y {
+    padding-right: 15px;
+}
+
+.q {
+    padding-right: 15px;
+}
+
+.c {
+    padding-right: 15px;
+
+}
+
+.side {
+    text-align: right;
+
+}
+
+.v {
+    padding-right: 15px;
+}
+
+.b {
+    padding-right: 15px;
+}
+
+.m {
+    padding-right: 15px;
+}
